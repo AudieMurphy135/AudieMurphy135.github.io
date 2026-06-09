@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: audiemurphy135.github.io/GenshinLoreNotes
+  baseUrl: audiemurphy135.github.io
   ignorePatterns:
     - private
     - templates

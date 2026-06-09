@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "advanced-tables-obsidian": {
+      "source": "https://github.com/tgrosinger/advanced-tables-obsidian",
+      "resolved": "https://github.com/tgrosinger/advanced-tables-obsidian",
+      "commit": "1a222399690f1d014d4bc95bf9ccf162ee5d7c75",
+      "installedAt": "2026-06-09T09:22:41.588Z"
+    },
     "alias-redirects": {
       "source": "github:quartz-community/alias-redirects",
       "resolved": "https://github.com/quartz-community/alias-redirects.git",
@@ -30,6 +36,12 @@
       "resolved": "https://github.com/quartz-community/breadcrumbs.git",
       "commit": "cf2e161425165e1ac713f1feb7250b07fe0250ae",
       "installedAt": "2026-06-09T07:13:17.126Z"
+    },
+    "callout-menu": {
+      "source": "https://github.com/anareaty/callout-menu",
+      "resolved": "https://github.com/anareaty/callout-menu",
+      "commit": "afa14136f9a3bb6ffbaa7a65dd974f16b989215c",
+      "installedAt": "2026-06-09T09:24:04.794Z"
     },
     "canvas-page": {
       "source": "github:quartz-community/canvas-page",
@@ -163,17 +175,65 @@
       "commit": "3cb40141e792a8a9ba9f99553cd436f36411bf8d",
       "installedAt": "2026-06-09T07:13:17.331Z"
     },
+    "obsidian-advanced-canvas": {
+      "source": "https://github.com/developer-mike/obsidian-advanced-canvas",
+      "resolved": "https://github.com/developer-mike/obsidian-advanced-canvas",
+      "commit": "ad077525b9df309ed53f720b60dd53e4e7a7f89e",
+      "installedAt": "2026-06-09T09:22:07.575Z"
+    },
+    "obsidian-callout-manager": {
+      "source": "https://github.com/eth-p/obsidian-callout-manager",
+      "resolved": "https://github.com/eth-p/obsidian-callout-manager",
+      "commit": "f917789a7a291aa67e499071a6f4abdfa4346d83",
+      "installedAt": "2026-06-09T09:23:03.222Z"
+    },
+    "obsidian-editing-toolbar": {
+      "source": "https://github.com/pkm-er/obsidian-editing-toolbar",
+      "resolved": "https://github.com/pkm-er/obsidian-editing-toolbar",
+      "commit": "b981cdce2ca484c43c18cbfec1c4b02962608d09",
+      "installedAt": "2026-06-09T09:24:22.417Z"
+    },
+    "obsidian-excalidraw-plugin": {
+      "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+      "resolved": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+      "commit": "e7af4b62acbf1820a5c39dd9d28c43b2b0e00d62",
+      "installedAt": "2026-06-09T09:24:49.875Z"
+    },
+    "obsidian-export-image": {
+      "source": "https://github.com/zhouhua/obsidian-export-image",
+      "resolved": "https://github.com/zhouhua/obsidian-export-image",
+      "commit": "d8b16f5a4de19df79f28a5f635797b3c1bd71e0f",
+      "installedAt": "2026-06-09T09:26:23.835Z"
+    },
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
       "commit": "07eaca7b31a537c7c4a0fd2848b1f00014c940af",
       "installedAt": "2026-06-09T07:13:15.655Z"
     },
+    "obsidian-list-callouts": {
+      "source": "https://github.com/mgmeyers/obsidian-list-callouts",
+      "resolved": "https://github.com/mgmeyers/obsidian-list-callouts",
+      "commit": "afc7d317d6c02b2737ef485a74028595a60fa5c9",
+      "installedAt": "2026-06-09T09:28:10.700Z"
+    },
+    "obsidian-minimal-settings": {
+      "source": "https://github.com/kepano/obsidian-minimal-settings",
+      "resolved": "https://github.com/kepano/obsidian-minimal-settings",
+      "commit": "577c0e4fd771c48a849fc4fee0c35997799789a2",
+      "installedAt": "2026-06-09T09:28:50.164Z"
+    },
     "obsidian-plugin-excalidraw": {
       "source": "github:quartz-community/obsidian-plugin-excalidraw",
       "resolved": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
       "commit": "dad0a4c0abdc8b3c2786277a2cbd67dc039c754c",
       "installedAt": "2026-06-09T07:13:17.330Z"
+    },
+    "obsidian-style-settings": {
+      "source": "https://github.com/obsidian-community/obsidian-style-settings",
+      "resolved": "https://github.com/obsidian-community/obsidian-style-settings",
+      "commit": "21d706dc5fd6ae6978feb8eefb178daab4c6532b",
+      "installedAt": "2026-06-09T09:29:13.969Z"
     },
     "og-image": {
       "source": "github:quartz-community/og-image",

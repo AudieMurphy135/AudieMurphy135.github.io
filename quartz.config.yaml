@@ -16,9 +16,10 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      title: Azeret Mono
+      header: Azeret Mono
+      body: Azeret Mono
+      code: Azeret Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -269,6 +270,46 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: https://github.com/developer-mike/obsidian-advanced-canvas
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/tgrosinger/advanced-tables-obsidian
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/eth-p/obsidian-callout-manager
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/anareaty/callout-menu
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/pkm-er/obsidian-editing-toolbar
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/zsviczian/obsidian-excalidraw-plugin
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/zhouhua/obsidian-export-image
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/mgmeyers/obsidian-list-callouts
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/kepano/obsidian-minimal-settings
+    enabled: true
+    options: {}
+    order: 50
+  - source: https://github.com/obsidian-community/obsidian-style-settings
+    enabled: true
+    options: {}
     order: 50
 layout:
   groups:
